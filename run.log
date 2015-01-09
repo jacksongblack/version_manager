@@ -1,0 +1,3 @@
+/usr/local/rvm/rubies/ruby-1.9.3-p551/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require': cannot load such file -- sinatra (LoadError)
+	from /usr/local/rvm/rubies/ruby-1.9.3-p551/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require'
+	from /app/shop_server/version_management/main.rb:3:in `<main>'
